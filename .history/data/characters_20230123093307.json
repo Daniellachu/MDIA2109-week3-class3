@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Hello Kitty (Kitty White)",
+        "type": "Cat",
+        "gender": "Female",
+        "img" : "../images/hellokitty.png"
+    },
+    {
+        "name": "Keroppi (Kerokerokeroppi)",
+        "type": "Frog",
+        "gender": "Male",
+        "img" : "../images/kero.png"
+    },
+    {
+        "name": "Pochacco",
+        "type": "Dog",
+        "gender": "Male",
+        "img" :../images/
+    },
+    {
+        "name": "Kuromi",
+        "type": "Rabbit",
+        "gender":"Female"
+    },
+    {
+        "name": "My melody",
+        "type": "Rabbit",
+        "gender": "Female"
+    },
+    {
+        "name": "Pompompurin",
+        "type": "Dog",
+        "gender": "Male"
+    }
+
+]
